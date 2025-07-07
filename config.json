@@ -150,5 +150,9 @@
   {
     "wallet": "0x5f7C1Ade486eF52D03F38F6363585079f8dd229c",
     "frontendName": "Pinwin"
-  }
+  },
+  {
+  "wallet": "0x340762D6959427A5b66Ad9884E02A9fbc6cc39EC",
+  "frontendName": "Elemental Markets"
+}
 ]
